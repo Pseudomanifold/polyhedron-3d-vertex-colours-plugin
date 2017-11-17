@@ -17,11 +17,7 @@ visualized.
 Call the plugin from the *Extensions* menu in Inkscape. A dialog should
 pop up that permits you to enter information about the mesh:
 
-<p align="center">
-
 ![Main dialog window of the plugin](/Screenshots/Dialog.png?raw=true "Main dialog window of the plugin")
-
-</p>
 
 You can set different viewing options, such as the camera position,
 including some transformations, and other styles as well&mdash;these are
@@ -31,17 +27,9 @@ particular when mesh scales are small.
 
 This is how the example data files should look like:
 
-<p align="center">
-
 ![A torus](/Screenshots/Torus.png?raw=true "A torus")
 
-</p>
-
-<p align="center">
-
 ![Winged Victory](/Screenshots/Winged_Victory.png?raw=true "Winged Victory")
-
-</p>
 
 # Dependencies
 
