@@ -28,6 +28,7 @@ particular when mesh scales are small.
 This is how the example data files should look like:
 
 ![A torus](/Screenshots/Torus.png?raw=true "A torus")
+
 ![Winged Victory](/Screenshots/Winged_Victory.png?raw=true "Winged Victory")
 
 # Dependencies
