@@ -19,8 +19,16 @@ pop up that permits you to enter information about the mesh:
 
 ![Main dialog window of the plugin](/Screenshots/Dialog.png?raw=true "Main dialog window of the plugin")
 
-It may be useful to experiment with different settings for the stroke
-width of the input mesh, in particular when mesh scales are small.
+You can set different viewing options, such as the camera position,
+including some transformations, and other styles as well&mdash;these are
+taken as-is from the original plugin. It may be useful to experiment
+with different settings for the stroke width of the input mesh, in
+particular when mesh scales are small.
+
+This is how the example data files should look like:
+
+![A torus](/Screenshots/Torus.png?raw=true "A torus")
+![Winged Victory](/Screenshots/Winged_Victory.png?raw=true "Winged Victory")
 
 # Dependencies
 
