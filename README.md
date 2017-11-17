@@ -14,6 +14,11 @@ visualized.
 
 # Usage
 
+Call the plugin from the *Extensions* menu in Inkscape. A dialog should
+pop up that permits you to enter information about the mesh:
+
+![Main dialog window of the plugin](/Screenshots/Dialog.png?raw=true "Main dialog window of the plugin")
+
 It may be useful to experiment with different settings for the stroke
 width of the input mesh, in particular when mesh scales are small.
 
