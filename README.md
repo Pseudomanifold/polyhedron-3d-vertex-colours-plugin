@@ -40,4 +40,4 @@ This is how the example data files should look like:
 
 Following the license conditions of the original plugin, this plugin
 is also licensed under the GPL Version 2. Please see the file
-[LICENSE.md] for more information.
+[LICENSE.md](LICENSE.md) for more information.
