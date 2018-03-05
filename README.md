@@ -2,7 +2,7 @@
 
 This plugin for the great [Inkscape vector graphics
 program](https://inkscape.org) permits rendering 3D
-polyhedra&nbsp;(meshes) in [Wavefront OBJ
+polyhedra and meshes in [Wavefront OBJ
 format](https://en.wikipedia.org/wiki/Wavefront_.obj_file). It is based
 on a [similar
 plugin](https://gitlab.com/inkscape/inkscape/blob/master/share/extensions/polyhedron_3d.py)
@@ -11,6 +11,11 @@ the mesh. This makes the plugin suitable when additional information
 such as vertex quality or
 [curvature](https://en.wikipedia.org/wiki/Curvature) have to be
 visualized.
+
+The plugin was originally developed to obtain publication-quality vector
+graphics for my dissertation. Please refer to [this blog
+post](http://bastian.rieck.me/blog/posts/2018/3d_polyhedra) for more
+details.
 
 # Installation instructions
 
