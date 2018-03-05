@@ -12,6 +12,19 @@ such as vertex quality or
 [curvature](https://en.wikipedia.org/wiki/Curvature) have to be
 visualized.
 
+# Installation instructions
+
+* Clone this repository
+* Create the path `$HOME/.config/inkscape/extensions` if it does not
+  already exist
+* Close Inkscape
+* Copy the files `polyhedron_3d_vertex_colours.py` and `polyhedron_3d_vertex_colours.inx` into this directory
+* Reopen Inkscape
+* Enjoy your new plugin, which you can find under *Extensions&ndash;Render*
+
+For more information about installing extensions, please refer to the
+[official Inkscape wiki](https://inkscape.org/en/gallery/%3Dextension).
+
 # Usage
 
 Call the plugin from the *Extensions* menu in Inkscape. A dialog should
@@ -32,6 +45,9 @@ This is how the example data files should look like:
 ![Winged Victory](/Screenshots/Winged_Victory.png?raw=true "Winged Victory")
 
 # Dependencies
+
+The plugin is written in Python. Please install the following packages
+using your package manager or `pip`, for example.
 
 - `numpy`
 - `python-lxml`
